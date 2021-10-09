@@ -12,7 +12,7 @@
 
 ```apt install git```
 
-```git clone ```
+```git clone https://github.com/codingwithdevil/kali-linux-source.list-auto-setup.git  ```
 
 ```cd kali linux source.list auto setup```
 
