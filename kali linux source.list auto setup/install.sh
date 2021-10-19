@@ -10,4 +10,6 @@ apt autoremove
 tasksel
 apt-get update
 apt-get upgrade
+apt autoremove
+apt clean
 python3 installing.py
